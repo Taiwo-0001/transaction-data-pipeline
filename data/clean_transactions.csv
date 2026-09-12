@@ -1,0 +1,9 @@
+id,date,description,amount,type,category
+txn_001,2026-09-01,Instagram Sale,25000,income,Sales
+txn_002,2026-09-02,Facebook Ads,5000,expense,Marketing
+txn_003,2026-09-03,Client Payment,85000,income,Services
+txn_004,2026-09-04,Uber,4500,expense,Transport
+txn_005,2026-09-05,Office Supplies,12000,expense,Operations
+txn_006,2026-09-06,Online Store Sale,45000,income,Sales
+txn_007,2026-09-07,Internet Subscription,8500,expense,Utilities
+txn_008,2026-09-08,Consulting Payment,65000,income,Services

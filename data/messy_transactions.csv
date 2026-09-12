@@ -1,0 +1,14 @@
+id,date,description,amount,type,category
+txn_101,2026-09-01,Instagram Sale,"₦25,000",income,Sales
+txn_102,01/09/2026,Facebook Ads,5000,expense,Marketing
+txn_103,2026-09-03,Client Payment,85000,income,Services
+txn_104,2026-09-04,Uber,"4,500",expense,Transport
+txn_105,2026-09-05,,12000,expense,Operations
+txn_106,2026-09-06,Online Store Sale,45000,Income,Sales
+txn_107,invalid-date,Internet Subscription,8500,expense,Utilities
+txn_108,2026-09-08,Consulting Payment,65000,income,
+txn_109,2026-09-08,Consulting Payment,65000,income,
+txn_109,2026-09-08,Consulting Payment,65000,income,Services
+txn_110,2026-09-09,Unknown Transaction,-5000,expense,Other
+txn_111,2026-09-09,Random Payment,abc,income,Sales
+txn_112,2026-09-09,Refund,15000,refund,Sales
